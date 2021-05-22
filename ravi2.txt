@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 new file added in local hub
+=======
+new file added to understand checkout
+>>>>>>> f19e5820e0fe7b359434e51373b8ad2af4efeaea
